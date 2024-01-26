@@ -1,5 +1,5 @@
 ## 🌍  About Me:
-👋 Hi, I’m @GauravChamate Front-End Developer based in Pune, India.<br> 
+👋 Hi, I’m @Gaurav Chamate Front-End Developer based in Pune, India.<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debosmita-chatterjee) 
