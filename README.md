@@ -1,17 +1,10 @@
-### Hi there 👋
+### Hi! my name is Gaurav Chamate 😄
 
 <!--
 **gauravchamate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌍  I am a Front-End Developer based in Pune, India.
 
-- 👋 Hi, I’m @GauravChamate
-- 👀 I’m interested in Machine Learning & Software Development.
-- 📫 How to reach me gauravchamate1@gmail.com
-- 🔭 I’m currently working on Langchain Model for Natural Language Processing
-- 🌱 I’m currently learning ... NLP & Deep Learning
-- 👯 I’m looking to collaborate on ...
--->
 # 💫 About Me:
 👋 Hi, I’m @GauravChamate<br> 👀 I’m interested in Machine Learning & Software Development.<br> 🔭 I’m currently working on projects for Frontend development<br>👯 I’m looking to collaborate on open source collaboration!<br>🤝 I’m looking for help with guiding with end to end projects :<br>🌱 I’m currently learning React<br>💬 Ask me about........Data <br>⚡ 
 
