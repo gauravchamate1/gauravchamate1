@@ -1,7 +1,7 @@
 ### Hi! my name is Gaurav Chamate 😄
 
 ## 🌍  About Me:
-👋 Hi, I’m @GauravChamate<br> 👀 I am a Front-End Developer based in Pune, India.<br> 
+👋 Hi, I’m @GauravChamate Front-End Developer based in Pune, India.<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debosmita-chatterjee) 
