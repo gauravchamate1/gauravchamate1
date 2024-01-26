@@ -1,5 +1,3 @@
-### Hi! my name is Gaurav Chamate 😄
-
 ## 🌍  About Me:
 👋 Hi, I’m @GauravChamate Front-End Developer based in Pune, India.<br> 
 
