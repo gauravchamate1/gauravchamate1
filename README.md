@@ -1,5 +1,5 @@
 ## 🌍  About Me:
-👋 Hi, I’m @Gaurav Chamate Front-End Developer based in Banglore, India.<br> 
+👋 Hi, I’m @Gaurav Chamate Developer based in Banglore, India.<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-chamate/) 
